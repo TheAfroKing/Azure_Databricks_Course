@@ -11,7 +11,7 @@ The core of this course was a real-world project to build a data platform analyz
 ## 📊 My Solution Architecture
 
 I implemented a modern **Lakehouse architecture** using a multi-layered, or "Medallion," approach (Bronze, Silver, and Gold).
-![Cloud Architecture](Cloud Architecture.png)
+![Cloud Architecture](https://github.com/TheAfroKing/Azure_Databricks_Course/blob/master/Cloud%20Architecture.png)
 
 Here is the data flow I built:
 
